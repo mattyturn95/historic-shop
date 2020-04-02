@@ -25,7 +25,8 @@ SECRET_KEY = '$07qw_246tg%kas9rw_t++qyepvpj!!6^127a*4$rmje!ufd*l'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', '8000-a9e10523-e02b-4b8a-8c77-f1ebd7544552.ws-eu01.gitpod.io']
+ALLOWED_HOSTS = ['localhost',
+                 '8000-a9e10523-e02b-4b8a-8c77-f1ebd7544552.ws-eu01.gitpod.io']
 
 
 # Application definition
@@ -68,7 +69,7 @@ TEMPLATES = [
                 'django.contrib.auth.context_processors.auth',
                 'django.contrib.messages.context_processors.messages',
                 'django.template.context_processors.media',
-                'cart.contexts.cart_contents',            ],
+                'cart.contexts.cart_contents', ],
         },
     },
 ]
