@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/mattyturn95/historic-shop.svg?branch=master)](https://travis-ci.org/mattyturn95/historic-shop)
