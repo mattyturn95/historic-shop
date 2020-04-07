@@ -1,7 +1,7 @@
 body {
     font-family: Arial;
     padding-top: 100px;
-    background-color: rgb(253, 253, 253);
+    background-color: rgb(112, 155, 235);
 }
 
 footer {
@@ -66,5 +66,14 @@ caption p {
     min-height: 40px;
 }
 
+.jumbotron{
+    text-align: center;
+    color: red;
+}
+
+
+.container{
+    align-content: center;
+}
 
 
