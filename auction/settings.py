@@ -29,7 +29,8 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 DEBUG = True
 
 ALLOWED_HOSTS = ['localhost',
-                 '8000-a9e10523-e02b-4b8a-8c77-f1ebd7544552.ws-eu01.gitpod.io']
+                 '8000-a9e10523-e02b-4b8a-8c77-f1ebd7544552.ws-eu01.gitpod.io',
+                 'auction-place.herokuapp.com']
 
 
 # Application definition
