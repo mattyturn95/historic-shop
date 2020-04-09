@@ -1,15 +1,11 @@
-body {
-    font-family: Arial;
-    padding-top: 100px;
-    background-color: rgb(253, 253, 253);
-}
+
 
 footer {
     margin-top: 40px;
     padding-top: 20px;
     padding-bottom: 20px;
     border-top: 1px solid #ededed;
-    color: #A9A9A9;
+    color: rgb(19, 9, 9);
 }
 
 .icon-bar {
@@ -66,5 +62,14 @@ caption p {
     min-height: 40px;
 }
 
+.jumbotron{
+    text-align: center;
+    color: red;
+}
+
+
+.container{
+    align-content: center;
+}
 
 
