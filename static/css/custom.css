@@ -1,7 +1,7 @@
 body {
     font-family: Arial;
     padding-top: 100px;
-    background-color: rgb(112, 155, 235);
+    background-color: rgb(160, 57, 57);
 }
 
 footer {
@@ -9,7 +9,7 @@ footer {
     padding-top: 20px;
     padding-bottom: 20px;
     border-top: 1px solid #ededed;
-    color: rgb(19, 9, 9);
+    color: #A9A9A9;
 }
 
 .icon-bar {
@@ -67,13 +67,13 @@ caption p {
 }
 
 .jumbotron{
+    
     text-align: center;
-    color: red;
 }
 
+.navbar-default  {
 
-.container{
-    align-content: center;
+    background-color: black;
 }
 
 
